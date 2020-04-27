@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">基础型计算器-代号Z</string>
+    <string name="enter_first_number">请输入第一个数字</string>
+    <string name="enter_second_number">请输入第二个数字</string>
+    <string name="result">结果</string>
+    <string name="result_shows_here">计算的结果将会在这里显示</string>
+    <string name="addition">相加 +</string>
+    <string name="subtraction">相减 -</string>
+    <string name="multiplication">相乘 ×</string>
+    <string name="division">相除 ÷</string>
+</resources>

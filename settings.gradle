@@ -1,0 +1,2 @@
+rootProject.name='BasicCalculator-Z'
+include ':app'
